@@ -2,7 +2,7 @@
 
 This is a simple Unity project designed to provide a clean starting point to develop the Roll-a-ball from.
 
-**Unity Version:** 2022.3 LTS
+**Unity Version:** Unity 6 (6000.0 LTS)
 
 **Platform Target:** Windows, MacOS & Linux
 
